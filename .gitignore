@@ -1,0 +1,149 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+.yarn-cache/
+.yarnrc
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# TypeScript v1 declaration files
+typings/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swo
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+*.log
+*.pid
+
+# Compiled files
+dist/
+build/
+coverage/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Compiled output
+dist/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env/
+env/
+venv/
+
+# Ruby
+*.gem
+*.rbc
+.rvmrc
+
+# PHP
+*.lock
+vendor/
+
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Haskell
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+
+# Rust
+*.rlib
+
+# Swift
+*.xcodeproj
+
+# Objective-C
+*.xcworkspace
+*.xcuserdatad
+
+# C++
+*.obj
+*.o
+*.so
+*.exe
+
+# C#
+*.exe
+*.dll
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Visual Studio Code
+.vscode/
+.history/
